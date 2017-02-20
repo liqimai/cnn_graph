@@ -13,3 +13,6 @@ summaries/
 
 # Model parameters
 checkpoints/
+
+# PyCharm Folder
+.idea/
